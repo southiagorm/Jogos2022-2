@@ -26,7 +26,7 @@ public class PlayerController : MonoBehaviour
     {
         sprite = GetComponent<SpriteRenderer>();
         rb2d = GetComponent<Rigidbody2D>();
-        sprite.color = Color.red;
+        //sprite.color = Color.red;
     }
 
     // Update is called once per frame
